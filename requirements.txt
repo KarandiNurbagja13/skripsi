@@ -12,3 +12,5 @@ plotly
 seaborn
 scikit-learn
 pickleshare
+tinycss2
+toml
