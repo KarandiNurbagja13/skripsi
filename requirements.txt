@@ -14,3 +14,7 @@ scikit-learn
 pickleshare
 tinycss2
 toml
+RandomForestClassifier
+train_test_split
+TfidfVectorizer
+accuracy_score
