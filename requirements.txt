@@ -5,7 +5,7 @@ matplotlib
 plotly
 seaborn
 scikit-learn
-pickle
+pickle5
 csv
 plotly.express
 sklearn.ensemble
