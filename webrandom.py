@@ -3,7 +3,6 @@ import numpy as np
 import streamlit as st
 import csv
 import pickle as pkl
-import plotly.express as px
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
