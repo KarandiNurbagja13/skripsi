@@ -6,7 +6,6 @@ plotly
 seaborn
 scikit-learn
 pickle5
-csv
 plotly.express
 sklearn.ensemble
 sklearn.model_selection
