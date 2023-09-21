@@ -11,7 +11,7 @@ matplotlib-inline
 plotly
 seaborn
 scikit-learn
-pickleshare
+pickle5
 tinycss2
 toml
 random-forest-mc
