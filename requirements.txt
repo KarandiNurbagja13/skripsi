@@ -6,11 +6,5 @@ plotly
 seaborn
 scikit-learn
 pickle5
-plotly.express
-sklearn.ensemble
-sklearn.model_selection
-sklearn.feature_extraction.text
-sklearn.metrics
 BeautifulSoup
-requests
 ngrams
