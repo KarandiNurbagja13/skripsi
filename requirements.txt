@@ -1,8 +1,14 @@
 numpy
+beautifulsoup4
+nltk
+Sastrawi
+openpyxl
+requests
+Pillow
 streamlit
 pandas
-matplotlib
+matplotlib-inline
 plotly
 seaborn
 scikit-learn
-pickle5
+pickleshare
